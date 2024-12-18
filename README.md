@@ -1,1 +1,1 @@
-Hi there! My name is Spiridon and I design websites. I know the basics HTML, CSS, SASS, and JavaScript. I started Google's UX certificate, because I'm going to be a UX designer. I'm looking to find work in the world of UX design.
+Hi there! My name is Spiridon and I design websites. I know the basics HTML, CSS, SASS, and JavaScript. 
